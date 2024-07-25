@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  idea4rc-capsule:
+  - apiVersion: v2
+    appVersion: 24.07.23-1653
+    created: "2024-07-25T10:26:13.728421133Z"
+    description: Helm Chart for IDEA4RC Capsule deployment
+    digest: 894293e10a897d9aa4635721335bb2579c4775e6800300a8607af2002a3ec834
+    name: idea4rc-capsule
+    type: application
+    urls:
+    - https://kirgahn.github.io/capsule-test/idea4rc-capsule-24.07.23-1653.tgz
+    version: 24.07.23-1653
+generated: "2024-07-25T10:26:13.718832004Z"
